@@ -1,0 +1,39 @@
+Changed database context to 'GD1C2024'.
+**** Comenzando Migracion  ****
+**** SPs dropeados correctamente ****
+**** Tablas eliminadas correctamente ****
+**** Creando SCHEMA ****
+**** Creando TABLAS ****
+Creando tabla provincia
+Creando tabla localidad
+Creando tabla direccion
+Creando tabla cliente
+Creando tabla detalle_pago
+Creando tabla descuento
+Creando tabla supermercado
+Creando tabla sucursal
+Creando tabla empleado
+Creando tabla tipo_caja
+Creando tabla caja
+Creando tabla estado_envio
+Creando tabla envio
+Creando tabla tipo_medio_pago
+Creando tabla medio_pago
+Creando tabla medio_pago_descuento_aplicado
+Creando tabla pago
+Creando tabla ticket
+Creando tabla promocion
+Creando tabla regla
+Creando tabla marca
+Creando tabla categoria
+Creando tabla subcategoria
+Creando tabla producto
+Creando tabla ticket_detalle
+Creando tabla producto_x_promocion
+Creando tabla ticket_det_x_promocion
+**** ejecutando PROCEDURES ****
+**** ejecutando tipo_medio_pago ****
+
+(4 rows affected)
+**** Creando PROCEDURES ****
+Migracion completada correctamente
